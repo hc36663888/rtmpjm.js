@@ -7,9 +7,9 @@
 // @grant        none
 
 // ====== GitHub Auto Update（自动更新） ======
-// @updateURL   https://raw.githubusercontent.com/你的GitHub账号/你的仓库/main/rtmps.user.js
-// @downloadURL https://raw.githubusercontent.com/你的GitHub账号/你的仓库/main/rtmps.user.js
-// @supportURL  https://github.com/你的GitHub账号/你的仓库/issues
+// @updateURL   https://raw.githubusercontent.com/hc36663888/rtmpjm.js/main/rtmpjm.js
+// @downloadURL https://raw.githubusercontent.com/hc36663888/rtmpjm.js/main/rtmpjm.js
+// @supportURL  https://github.com/hc36663888/rtmpjm.js/issues
 // ============================================
 
 // ==/UserScript==
